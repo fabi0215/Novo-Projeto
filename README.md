@@ -50,6 +50,7 @@ Partidas de jogos e niveis dos jogadores.
 
 ## links uteis
 
+
 . https://img.shields.io/badge/:badgeContent
 
 . https://github.com/anuraghazra/github-readme-stats
